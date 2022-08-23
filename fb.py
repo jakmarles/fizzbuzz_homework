@@ -2,6 +2,10 @@
 # If num % 5 = true print buzz
 # If num % 5 = true and num % 5 = true print fizzbuzz
 # for and while loops
+
+
+
+
 # range 100 > (101)
 # for fizzbuzz in range(1, 101):
 #     if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
